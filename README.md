@@ -1,9 +1,9 @@
-#  Smart Text Editor
+#  Smart Text Editor Buffer System
 
 A console-based Smart Text Editor built in Java as a Data Structures & Algorithms semester project.
 
 ##  Author
-**Ayesha Tahir** — L1F24BSSE0042 — D8  
+**Ayesha Tahir** 
 BS Computer Science — Semester Project  
 Data Structures & Algorithms LAB
 
